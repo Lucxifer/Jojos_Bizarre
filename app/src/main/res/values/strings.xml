@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jojo\'s App</string>
+    <string name="all">TODO</string>
+    <string name="anime">Dio</string>
+    <string name="name">El pepe</string>
+    <string name="title_activity_main">Tu comentario sobre Jojo\'s</string>
+    <string name="subtitle_activity_main">Últimos comentarios</string>
+    <string name="title_activity_add">Agregar Elemento</string>
+    <string name="name_form">Cual es tu Nombre</string>
+    <string name="anime_form">Tema</string>
+    <string name="url_form">Url</string>
+    <string name="description_form">Comentario</string>
+    <string name="save">Guardar</string>
+    <string name="description">REEMPLACE CON LA DESCRIPCIÓN DESEADA AQUÍ</string>
+    <string name="title_activity_edit">Editar Elemento</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="spinner_tittle" />
+    <string name="todo">TODO</string>
+    <string name="siguiente">Login</string>
+    <string name="menu">Quiz2</string>
+    <string name="cerrar_seccion">Cerrar Seccion</string>
+    <string name="seleccione_tu_parte_favorita">Seleccione tu parte favorita:</string>
+    <string name="quiz_de_jojo_s">QUIZ DE JOJO´S</string>
+    <string-array name="array_data">
+        <item>Select Data</item>
+        <item>Option 1</item>
+        <item>Opcion 2</item>
+        <item>Option 3</item>
+    </string-array>
+
+</resources>

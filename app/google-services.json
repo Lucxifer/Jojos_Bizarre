@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275021339972",
+    "firebase_url": "https://jojosmembrillo-default-rtdb.firebaseio.com",
+    "project_id": "jojosmembrillo",
+    "storage_bucket": "jojosmembrillo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275021339972:android:981d78646a70269fff4b11",
+        "android_client_info": {
+          "package_name": "com.jojos.membrillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275021339972-fvraq5tdrr0m561oi3lop305feioqjd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jojos.membrillo",
+            "certificate_hash": "d02806cee05a4995a39867fe2f850b3f04a0eb26"
+          }
+        },
+        {
+          "client_id": "275021339972-etd6mavo3a5gqcldkn9s3hqj3cj46h35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tJ30Ej2Cjkquq3M0yaECxx6Y9Cj5tCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275021339972-etd6mavo3a5gqcldkn9s3hqj3cj46h35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
